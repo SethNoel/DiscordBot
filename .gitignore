@@ -31,6 +31,7 @@ Thumbs.db # Windows specific
 *.sublime-project
 *.sublime-workspace
 *.code-workspace
+eslint.config.mjs
 
 # Environment variables
 .env
